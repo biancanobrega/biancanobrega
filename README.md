@@ -26,6 +26,12 @@
   <img src="https://img.icons8.com/color/96/000000/typescript.png" width="40"  title="Typescript"/>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node"/>
+  
+  <img src="imgs/nestjs.svg" width="40" title="Nest js"/>
+
+  <img src="imgs/express.png" height="35" title="Express"/>
+
+  <img src="imgs/jest.svg" width="30" title="Jest"/>
 
   <img src="https://img.icons8.com/color/96/000000/angularjs.png" width="40" title="Angular" />
 
