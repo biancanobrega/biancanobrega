@@ -5,7 +5,7 @@
 :earth_americas: I'm from <strong>Brazil - São Paulo </strong>current living in  <strong>Portugal</strong>  
 :computer: I've been working as a developer <strong>since 2011</strong>  
 :book: I started as a trainee in an assurance company in São Paulo  
-:heavy_check_mark: and now I'm a <strong>software engineer at Student Finance</strong>
+:heavy_check_mark: and now I'm a <strong>software engineer at Student Finance</strong>  
 :nerd_face: Development is a forever student life so <strong>I'm always trying to learn something new</strong> !
 
 <div align="left">
